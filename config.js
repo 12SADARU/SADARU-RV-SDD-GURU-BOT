@@ -50,12 +50,12 @@ global.APIKeys = { // APIKey Here
 global.botname = 'SADARU-RV-SDD'
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.author = '@sadaru437' 
 global.igfg = 'https://instagram.com/sd_sadaru7791?igshid=ZGUzMzM3NWJiOQ==' 
 global.dygp = 'https://wa.me/qr/DTKMMICIP4LPG1'
-global.fgsc = 
-global.fgyt = 
-global.fgpyp =
+global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
+global.fgyt = 'https://youtube.com/@sadaru437'
+global.fgpyp ='https://youtube.com/@sadaru437'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb://mongo:q4bHb1TK9mOyuKFmp1oY@containers-us-west-56.railway.app:6244' //ADD YOUR MONGODB BY CHANGIMG IT
 
